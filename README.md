@@ -5,4 +5,4 @@ When a student finds an item, they upload a partial photo and a "verification hi
 
 When the true owner claims the item at the office by answering the hint, the admin approves the handover on the portal. This verification instantly rewards the finder with 100 redeemable campus points. Additionally, the system prompts the grateful owner with an option to securely tip the finder for their help.
 
-By combining administrative oversight for security with a modern reward system (points and optional tips), this platform transforms returning lost items from an inconvenient chore into a highly engaging campus activity.
+By combining administrative oversight for security with a modern reward system (points and optional tips), this platform transforms returning lost items from an inconvenient chore into a highly engaging campus activity
